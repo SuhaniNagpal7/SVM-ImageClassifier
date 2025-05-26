@@ -46,3 +46,5 @@ A machine learning project that classifies images of **cats**, **dogs**, **horse
 - matplotlib
 - keras
 - scikit-learn
+
+---
